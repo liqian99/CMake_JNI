@@ -1,0 +1,3 @@
+include 'sample:demo'
+include 'library:image_library'
+rootProject.name = "Sample"
